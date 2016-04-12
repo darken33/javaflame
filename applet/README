@@ -1,0 +1,44 @@
+Titre       : JavaFlame
+Version     : 0.1
+Description : Animations de flames (Applet Java)
+Auteur      : Philippe BOUSQUET
+Creation    : 22/03/2002
+License     : GNU GENERAL PUBLIC LICENSE
+Copyright   : (c) 2002 - Philippe BOUSQUET
+_________________________________________________________________
+
+PRESENTATION
+============
+	Cette applet affiche une animation de Flames sur votre page html. 
+
+PARAMETRAGE
+===========
+	L'applet ne prend pas de paramètres seul la taille de l'applet est prise en compte
+
+	Exemple: une animation de flames en 200x50
+        <applet code="JavaFlame.class" width="200" height="50">
+        </applet>           
+
+GARANTIES
+=========
+	ATTENTION: Je ne prend aucune responsabilité sur les dégats
+	encourus lors de l'utilisation cette applet.
+
+LICENSE
+=======
+	Ce logiciel est sous license GPL, Pour plus d'informations
+	consulter la note LICENSE.
+
+AUTRES PROJETS
+==============
+	JavaFlame n'est pas mon seul projet, pour en savoir plus
+	veuillez consulter le site http://darken.tuxfamily.org.
+_________________________________________________________________
+
+Philippe BOUSQUET
+229 rue Sainte Catherine,
+33000 BORDEAUX
+FRANCE.
+Tel: (+33) 06.61.99.25.84
+E-mail : Darken@tuxfamily.org
+Site: http://darken.tuxfamily.org
